@@ -13,6 +13,7 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .first-section{
     background-image: url(./images/top-banner.png);
@@ -33,4 +34,9 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
 
+}
+.second-section{
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
